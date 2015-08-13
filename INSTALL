@@ -1,0 +1,12 @@
+Building rurc
+
+See doc/readme-qt.rst for instructions on building rurc-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of rurc.
+
+See doc/build-*.txt for instructions on building rurcd,
+the intended-for-services, no-graphical-interface, reference
+implementation of rurc.
+
+Further build information and documentation is available at
+the official rurc website, http://www.rurc.org

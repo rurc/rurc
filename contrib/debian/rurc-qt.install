@@ -1,0 +1,6 @@
+rurc-qt usr/bin
+share/pixmaps/rurc32.xpm usr/share/pixmaps
+share/pixmaps/rurc16.xpm usr/share/pixmaps
+share/pixmaps/rurc128.png usr/share/pixmaps
+debian/rurc-qt.desktop usr/share/applications
+debian/rurc-qt.protocol usr/share/kde4/services/
